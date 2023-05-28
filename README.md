@@ -12,3 +12,6 @@
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
 
+
+
+[![Build status](https://ci.appveyor.com/api/projects/status/ud6y3tnfc1ncsgvx?svg=true)](https://ci.appveyor.com/project/SSS5900/test-api-ci)
